@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+scipy
+torch
+prettytable
+pillow
+lpips
